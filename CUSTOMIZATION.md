@@ -24,7 +24,7 @@ const fullName = 'Supanat Wanroj'; // Change this to your full name
 
 ### Update Tagline/Title
 ```javascript
-const tagline = 'Software engineer | iOS | Creator'; // Your professional title
+const tagline = 'Software engineer | iOS | Board Gamer'; // Your professional title
 ```
 
 ### Update Description
@@ -155,7 +155,7 @@ const response = await fetch('https://formspree.io/f/YOUR_FORM_ID', {
 **File:** `src/components/Header.jsx`
 ```javascript
 <motion.div className="text-xl font-bold text-primary-600 dark:text-primary-400">
-  Portfolio // Change to Supanat Wanroj or brand
+  Mild // Change to Supanat Wanroj or brand
 </motion.div>
 ```
 

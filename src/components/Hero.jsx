@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 const Hero = () => {
   const [displayText, setDisplayText] = useState('');
   const fullName = 'Supanat Wanroj';
-  const tagline = 'Software engineer | iOS | Creator';
+  const tagline = 'Software engineer | iOS | Board Gamer';
 
   useEffect(() => {
     let currentIndex = 0;
@@ -70,8 +70,7 @@ const Hero = () => {
             transition={{ delay: 1.3 }}
             className="text-base md:text-lg text-slate-600 dark:text-slate-400 max-w-2xl mx-auto mb-12"
           >
-            Passionate about creating beautiful, functional, and user-friendly digital experiences.
-            I turn ideas into reality through clean code and elegant design.
+            iOS Developer that love in Tech Gadget, Board game and AI Technology. Owner MildSpace FB Page. Member of STAYGO Channel on Youtube.
           </motion.p>
 
           {/* CTA Buttons */}

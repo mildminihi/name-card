@@ -44,7 +44,7 @@ const Header = () => {
             whileHover={{ scale: 1.05 }}
             className="text-xl font-bold text-primary-600 dark:text-primary-400"
           >
-            Portfolio
+            Mild
           </motion.div>
 
           {/* Navigation Links - Hidden on mobile */}
